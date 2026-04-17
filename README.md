@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Developer (React & PHP).<br><br>🎨 UI/UX focused with strong frontend skills.<br><br>⚡ Builds responsive, scalable, and optimized web applications.<br><br>🤖 Interested in AI-driven and modern web solutions.
+👨‍💻 Full-Stack Developer (React & Laravel).<br><br>🎨 UI/UX focused with strong frontend skills.<br><br>⚡ Builds responsive, scalable, and optimized web applications.<br><br>🤖 Interested in AI-driven and modern web solutions.
 
 
 ## 🌐 Socials:
