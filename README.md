@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=EngAhmedNakresh&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 </p>
 
----
+
 
 <table align="center">
 <tr>
@@ -51,7 +51,7 @@
 </tr>
 </table>
 
----
+
 
 ## Featured Project
 
