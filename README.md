@@ -1,82 +1,212 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/profile.png" width="150" style="border-radius: 50%; border: 4px solid #38BDF8;" alt="Ahmed Salah" />
-  <h1>Ahmed Salah El-din</h1>
-  <p><strong>Full-Stack Architect | Crafting Scalable Digital Experiences</strong></p>
+<h1 align="center">Ahmed Salah El-din</h1>
 
-  <p>
-    <a href="https://ahmed-salah-el-din.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
-    <a href="https://www.linkedin.com/in/ahmed-salah-eldin-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:ahmednakresh827@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React.js+%7C+Laravel+Developer;Building+Modern+Scalable+Web+Apps;Clean+UI+%2B+Strong+Backend" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://ahmed-salah-el-din.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-salah-eldin-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmednakresh827@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/EngAhmedNakresh">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EngAhmedNakresh&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
+</p>
 
 ---
 
-### 🌐 Overview
-I am a **Full-Stack Web Developer** and **Engineering Student** with a passion for building high-end web applications. I specialize in the **TALL/MERN stack** philosophy, focusing on **React.js** for interactive frontends and **Laravel** for secure, scalable backends. 
+<table align="center">
+<tr>
+<td width="36%" align="center">
 
-> "Code is poetry when written with precision and purpose."
+<img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/profile.png" width="220" alt="Ahmed Salah El-din" />
 
----
+</td>
+<td width="64%" valign="middle">
 
-### 🛠️ Technical Arsenal
+### About Me
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br>
-      <code>React.js</code> <code>Next.js</code><br>
-      <code>TypeScript</code> <code>Tailwind</code>
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend</strong><br>
-      <code>Laravel</code> <code>PHP</code><br>
-      <code>MySQL</code> <code>REST API</code>
-    </td>
-    <td align="center" width="33%">
-      <strong>Tools</strong><br>
-      <code>Git</code> <code>Docker</code><br>
-      <code>Postman</code> <code>Linux</code>
-    </td>
-  </tr>
+- Full-Stack Web Developer specialized in **React.js** and **Laravel**
+- Focused on building **responsive**, **scalable**, and **modern** web applications
+- Passionate about **clean UI/UX**, maintainable code, and performance
+- Strong interest in real products that solve practical problems
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,tailwind,php,laravel,mysql,git,github,vercel,vscode" />
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🚀 High-Impact Projects
+## Featured Project
 
-#### ⚡ [Portfolio Genie](https://portfolio-geniee.vercel.app/)
-An innovative AI tool that transforms GitHub activity into professional portfolios.
-*Tech: React, AI Integration, GitHub API*
+<table>
+<tr>
+<td align="center">
 
-#### 🏥 [ASE Clinic Management](https://final-proj-clinic.vercel.app/)
-A complete healthcare ecosystem for appointment scheduling and patient data.
-*Tech: Laravel, React, MySQL*
+### 👑 Ahmed Salah El-din Portfolio
 
-#### 🏋️ [IronPulse Gym](https://engahmednakresh.github.io/IronPulse-Gym/)
-Premium landing page focused on performance and fluid user animations.
-*Tech: Framer Motion, React*
+<a href="https://ahmed-salah-el-din.vercel.app/">
+  <img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/portfolio.png" width="100%" alt="Portfolio Project" />
+</a>
 
----
+<br><br>
 
-### 📈 Engineering Metrics
+<a href="https://ahmed-salah-el-din.vercel.app/">
+  <img src="https://img.shields.io/badge/Live Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/EngAhmedNakresh/Ahmed_Salah_El-din">
+  <img src="https://img.shields.io/badge/GitHub Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngAhmedNakresh&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngAhmedNakresh&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmedNakresh&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" width="380" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngAhmedNakresh&label=PROFILE+VIEWS&style=flat-square&color=38BDF8" />
-  <br>
-  <sub>Visitor count tracking since 2025</sub>
-</div>
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### ASE Clinic
+<a href="https://final-proj-clinic.vercel.app/">
+  <img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/clinic.png" width="100%" height="230" alt="ASE Clinic" />
+</a>
+
+<br><br>
+
+<a href="https://final-proj-clinic.vercel.app/">
+  <img src="https://img.shields.io/badge/Live Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/EngAhmedNakresh/final-proj-clinic">
+  <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Safaa Elroh
+<a href="https://safaa-elroh.vercel.app/">
+  <img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/safaa2.png" width="100%" height="230" alt="Safaa Elroh" />
+</a>
+
+<br><br>
+
+<a href="https://safaa-elroh.vercel.app/">
+  <img src="https://img.shields.io/badge/Live Demo-0f766e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/EngAhmedNakresh/safaa-elroh">
+  <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+### ASE Movies
+<a href="https://ase-movies.vercel.app/">
+  <img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/movie.png" width="100%" height="230" alt="ASE Movies" />
+</a>
+
+<br><br>
+
+<a href="https://ase-movies.vercel.app/">
+  <img src="https://img.shields.io/badge/Live Demo-dc2626?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/EngAhmedNakresh/ASE-Movies">
+  <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Portfolio Genie
+<a href="https://portfolio-geniee.vercel.app/">
+  <img src="https://raw.githubusercontent.com/EngAhmedNakresh/EngAhmedNakresh/main/assets/portfolio-gine.png" width="100%" height="230" alt="Portfolio Genie" />
+</a>
+
+<br><br>
+
+<a href="https://portfolio-geniee.vercel.app/">
+  <img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/EngAhmedNakresh/PortfolioGeniee">
+  <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## More Work
+
+<p align="center">
+  <a href="https://engahmednakresh.github.io/book-store/">
+    <img src="https://img.shields.io/badge/Book Saw-Live-f59e0b?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://github.com/EngAhmedNakresh/book-store">
+    <img src="https://img.shields.io/badge/Book Saw-Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://engahmednakresh.github.io/IronPulse-Gym/">
+    <img src="https://img.shields.io/badge/IronPulse Gym-Live-f97316?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://github.com/EngAhmedNakresh/IronPulse-Gym">
+    <img src="https://img.shields.io/badge/IronPulse Gym-Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gym-store-food.vercel.app/">
+    <img src="https://img.shields.io/badge/Nakresh Fitness-Live-16a34a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/EngAhmedNakresh/Gym-Store-Food">
+    <img src="https://img.shields.io/badge/Nakresh Fitness-Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://recipe-sandy-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Recipes With Nakresh-Live-ea580c?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/EngAhmedNakresh/Recipe">
+    <img src="https://img.shields.io/badge/Recipes With Nakresh-Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EngAhmedNakresh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmedNakresh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EngAhmedNakresh&theme=tokyonight&hide_border=true" />
+</p>
